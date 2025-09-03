@@ -78,4 +78,7 @@ npm run dev
 ## Notes
 - All dependencies are listed in `package.json`.  
 - Static images are served from `/images/...` via the backend.  
-- WebSocket server runs on the same backend (`/ws`).  
+- WebSocket server runs on the same backend (`/ws`).
+
+## Screenshots
+![alt text](<Screenshot 2025-09-03 190536.png>) ![alt text](<Screenshot 2025-09-03 190634.png>)
